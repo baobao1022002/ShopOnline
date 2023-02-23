@@ -47,6 +47,7 @@
 	                        </c:when>
 	                        <c:otherwise>
 	                        		<li><a href="<c:url value="/login"></c:url>">Log In</a></li>
+                                <li><a href="<c:url value="/register"></c:url>">Register</a></li>
 	                        </c:otherwise>
 
 	                    </c:choose>
