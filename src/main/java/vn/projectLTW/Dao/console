@@ -1,0 +1,3 @@
+SELECT t.*
+            FROM shoponline.cart_item t
+            LIMIT 501
